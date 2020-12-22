@@ -1,4 +1,4 @@
-#https://adventofcode.com/2020/day/18
+#https://adventofcode.com/2020/day/19
 #ty, https://www.reddit.com/r/adventofcode/comments/kg1mro/2020_day_19_solutions/ggc1jb5?utm_source=share&utm_medium=web2x&context=3
 
 

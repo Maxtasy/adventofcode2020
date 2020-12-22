@@ -1,4 +1,5 @@
-# ty, https://www.reddit.com/r/adventofcode/comments/kgo01p/2020_day_20_solutions/ggg69h4?utm_source=share&utm_medium=web2x&context=3
+#https://adventofcode.com/2020/day/20
+#ty, https://www.reddit.com/r/adventofcode/comments/kgo01p/2020_day_20_solutions/ggg69h4?utm_source=share&utm_medium=web2x&context=3
 
 
 import collections
